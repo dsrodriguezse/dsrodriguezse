@@ -78,7 +78,7 @@ I am inspired by challenges that require creativity, precision, and logic.*
 - 🐕 Animal Lover
 - 🕹️ Apasionado del **Simracing** y los deportes motor🏎️
 - [<img src="https://companieslogo.com/img/orig/SPOT-c85b9454.png" alt="Spotify" width="15">](https://open.spotify.com/user/dsrs06?si=aba823a947fe499) Música favorita: [Electrónica(House)](https://open.spotify.com/playlist/2F8rRY6ahDzXYGq4y0DOIE?si=832c071c79af439e) | Reggaeton | De todo un poco ;)
-- [<img src="https://images.seeklogo.com/logo-png/20/2/millonarios-f-c-logo-png_seeklogo-208521.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
+- [<img src="https://millonarios.com.co/wp-content/uploads/2024/08/logo2.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
 
 ---
 <p align="center">
