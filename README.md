@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Desarrollador+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Developer+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
 </p>
 
 🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la Universidad Nacional de Colombia. Actualmente trabajo en **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, una empresa enfocada en soluciones tecnológicas para el sector médico.  
