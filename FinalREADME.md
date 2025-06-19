@@ -9,10 +9,10 @@
 🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la Universidad Nacional de Colombia. Actualmente trabajo en **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, una empresa enfocada en soluciones tecnológicas para el sector médico.  
 Me inspiran los desafíos que requieren creatividad, precisión y lógica.
 
-🎓 I am a **Systems Engineering and Computer Science** student at the National University of Colombia. I currently work at **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, a company focused on technological solutions for the medical sector.
-I am inspired by challenges that require creativity, precision, and logic.
+*🎓 I am a **Systems Engineering and Computer Science** student at the National University of Colombia. I currently work at **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, a company focused on technological solutions for the medical sector.
+I am inspired by challenges that require creativity, precision, and logic.*
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 **Languages:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
@@ -53,14 +53,34 @@ I am inspired by challenges that require creativity, precision, and logic.
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=radical&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-## 📈 Estadísticas
+
+## 🌱 Actualmente Interesado En 
+
+- 🔐 Ciberseguridad y pruebas de penetración
+- ⚙️ Automatización de tareas
+- 🤖 Inteligencia Artificial aplicada a desarrollo de software
+- 📊 Análisis de datos para toma de decisiones
+- 🤝 Colaboraciones en proyectos open source 
+- 🛠️ Explorando: **Terraform** y **Kubernetes** para DevOps
+
+
+## 📫 Contacto
+- ✉️ **Email:** [dsrodriguezs06@gmail.com](mailto:dsrodriguezs06@gmail.com) | [dsrodriguezse@unal.edu.co](mailto:dsrodriguezse@unal.edu.co)
+- <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="16" /> **LinkedIn:** [dsrodriguezse](https://www.linkedin.com/in/dsrodriguezse/)
+
+
+## ⚡ Datos Curiosos
+- 🐕 Animal Lover
+- 🕹️ Apasionado del **Simracing** y los deportes motor🏎️
+- [<img src="https://companieslogo.com/img/orig/SPOT-c85b9454.png" alt="Spotify" width="15">](https://open.spotify.com/user/dsrs06?si=aba823a947fe499) Música favorita: [Electrónica(House)](https://open.spotify.com/playlist/2F8rRY6ahDzXYGq4y0DOIE?si=832c071c79af439e) | Reggaeton | De todo un poco ;)
+- [<img src="https://images.seeklogo.com/logo-png/20/2/millonarios-f-c-logo-png_seeklogo-208521.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
+
+---
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="Estadísticas">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Lenguajes">
+  Gracias por visitar mi perfil 🌟 ¡Conectemos y creemos algo increíble!
 </p>
