@@ -84,3 +84,11 @@ I am inspired by challenges that require creativity, precision, and logic.*
 <p align="center">
   Gracias por visitar mi perfil 🌟 ¡Conectemos y creemos algo increíble!
 </p>
+---
+---
+
+![Snake animation](https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg)
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,docker,linux,git,aws,mysql&theme=dark)](https://skillicons.dev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsrodriguezse&theme=dark)](https://git.io/streak-stats)
