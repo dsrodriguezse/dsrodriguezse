@@ -85,9 +85,6 @@ I am inspired by challenges that require creativity, precision, and logic.*
   Gracias por visitar mi perfil 🌟 ¡Conectemos y creemos algo increíble!
 </p>
 
----
-![Visitas](https://komarev.com/ghpvc/?username=dsrodriguezse&color=blue)
----
 
 ![snake gif](https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg)
 
@@ -96,4 +93,4 @@ I am inspired by challenges that require creativity, precision, and logic.*
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsrodriguezse&theme=dark)](https://git.io/streak-stats)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,docker,linux,git,aws,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,docker,linux,git,aws,mysql,python,js,java,c,cpp,docker,linux&theme=dark)](https://skillicons.dev)
