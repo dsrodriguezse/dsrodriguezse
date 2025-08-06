@@ -81,6 +81,12 @@ I am inspired by challenges that require creativity, precision, and logic.*
 - [<img src="https://millonarios.com.co/wp-content/uploads/2024/08/logo2.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
 
 ---
+<div align="center">
+  <img src="https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+---
+---
 <p align="center">
   Gracias por visitar mi perfil 🌟 ¡Conectemos y creemos algo increíble!
 </p>
