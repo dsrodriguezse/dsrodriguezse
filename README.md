@@ -82,7 +82,7 @@ I am inspired by challenges that require creativity, precision, and logic.*
 
 ---
 <div align="center">
-  <img src="https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/dsrodriguezse/dsrodriguezse/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 ---
@@ -94,9 +94,6 @@ I am inspired by challenges that require creativity, precision, and logic.*
 ---
 ---
 
-<div align="center">
-  <img src="https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,docker,linux,git,aws,mysql&theme=dark)](https://skillicons.dev)
 
