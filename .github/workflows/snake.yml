@@ -21,12 +21,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-          color_snake: "#00FFFF"
+          color_snake: "#273479"
           color_dots: "#F2F2F2"
-          color_back: "#0D1117"
+          color_back: "#000000"
           color_grid: "#161B22"
-          width: 1080
-          height: 300
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
