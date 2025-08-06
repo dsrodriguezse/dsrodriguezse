@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Todos los días a la medianoche UTC
+    - cron: "0 0 * * *" # Todos los días a medianoche UTC
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate Snake SVG
     steps:
+      # 🔁 Clona el repo primero (esto es obligatorio para hacer commit)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 🐍 Genera el snake
       - uses: Platane/snk@v3
         with:
           github_user_name: dsrodriguezse
           outputs: |
             dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # ✅ Commit automático del archivo generado
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:

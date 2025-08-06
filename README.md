@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Desarrollador+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Developer+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
 </p>
 
 🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la Universidad Nacional de Colombia. Actualmente trabajo en **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, una empresa enfocada en soluciones tecnológicas para el sector médico.  
@@ -78,8 +78,14 @@ I am inspired by challenges that require creativity, precision, and logic.*
 - 🐕 Animal Lover
 - 🕹️ Apasionado del **Simracing** y los deportes motor🏎️
 - [<img src="https://companieslogo.com/img/orig/SPOT-c85b9454.png" alt="Spotify" width="15">](https://open.spotify.com/user/dsrs06?si=aba823a947fe499) Música favorita: [Electrónica(House)](https://open.spotify.com/playlist/2F8rRY6ahDzXYGq4y0DOIE?si=832c071c79af439e) | Reggaeton | De todo un poco ;)
-- [<img src="https://images.seeklogo.com/logo-png/20/2/millonarios-f-c-logo-png_seeklogo-208521.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
+- [<img src="https://millonarios.com.co/wp-content/uploads/2024/08/logo2.png" width="16">](https://millonarios.com.co/) Hincha de Millonarios FC
 
+---
+<div align="center">
+  <img src="https://github.com/dsrodriguezse/dsrodriguezse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+---
 ---
 <p align="center">
   Gracias por visitar mi perfil 🌟 ¡Conectemos y creemos algo increíble!
