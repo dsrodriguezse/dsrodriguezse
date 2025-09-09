@@ -52,10 +52,22 @@ I am inspired by challenges that require creativity, precision, and logic.*
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+
+<table>
+<tr>
+  <td valign="top" style="padding-right: 20px;">
+    <a href="https://roadmap.sh" title="Mi GitHub Stats">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    </a>
+  </td>
+  <td valign="top">
+    <a href="https://github.com/dsrodriguezse/Engineering-manager-roadmap" title="Mis lenguajes más usados">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=github_dark&hide_border=true" alt="Top Lenguajes"/>
+    </a>
+  </td>
+</tr>
+</table>
+
 
 ## 🥸🚀 Roadmap a Technical Lead
 <table>
@@ -66,8 +78,11 @@ I am inspired by challenges that require creativity, precision, and logic.*
     <img src="https://roadmap.sh/card/wide/68b782f1ec895e85611afc1f?variant=dark" alt="roadmap.sh"/>
   </a>
 </td>
+
 <td>
-<!-- GIF o complemento -->
+<a href="https://github.com/dsrodriguezse/Engineering-manager-roadmap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrodriguezse&repo=Engineering-manager-roadmap&theme=dark" alt="Engineering manager roadmap" width="500" />
+</a>
 </td>
 </tr>
 </table>
