@@ -81,7 +81,7 @@ I am inspired by challenges that require creativity, precision, and logic.*
 
 <td>
 <a href="https://github.com/dsrodriguezse/Engineering-manager-roadmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrodriguezse&repo=Engineering-manager-roadmap&theme=dark" alt="Engineering manager roadmap" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrodriguezse&repo=Engineering-manager-roadmap&theme=dark" alt="Engineering manager roadmap" height="180px" />
 </a>
 </td>
 </tr>
