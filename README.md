@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Developer+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
 </p>
 
-🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la [Universidad Nacional de Colombia](https://unal.edu.co/). Actualmente trabajo en **[PahVenture](https://pahventure.com/)**, una empresa de tecnología, que ayuda a las empresas a crecer con IA y soluciones innovadoras.  
-Me inspiran los desafíos que requieren creatividad, precisión y lógica.
+🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la [Universidad Nacional de Colombia](https://unal.edu.co/). Actualmente trabajo en **[PahVenture](https://pahventure.com/)**, una empresa de tecnología, que ayuda a las empresas a crecer con IA y soluciones innovadoras. Me inspiran los desafíos que requieren creatividad, precisión y lógica.
 
 *🎓 I am a **Systems Engineering and Computer Science** student at the [National University of Colombia](https://unal.edu.co/). I currently work at **[PahVenture](https://pahventure.com/)**, a technology company that helps businesses grow with AI and innovative solutions.
 I am inspired by challenges that require creativity, precision, and logic.*
@@ -58,12 +57,27 @@ I am inspired by challenges that require creativity, precision, and logic.*
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodriguezse&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+## 🥸🚀 Roadmap a Technical Lead
+<table>
+<tr>
+<td>
+  <!-- Banner roadmap.sh tipo wide -->
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/68b782f1ec895e85611afc1f?variant=dark" alt="roadmap.sh"/>
+  </a>
+</td>
+<td>
+<!-- GIF o complemento -->
+</td>
+</tr>
+</table>
+
 
 ## 🌱 Actualmente Interesado En 
 
+- 🤖 Inteligencia Artificial aplicada a desarrollo de software
 - 🔐 Ciberseguridad y pruebas de penetración
 - ⚙️ Automatización de tareas
-- 🤖 Inteligencia Artificial aplicada a desarrollo de software
 - 📊 Análisis de datos para toma de decisiones
 - 🤝 Colaboraciones en proyectos open source 
 - 🛠️ Explorando: **Terraform** y **Kubernetes** para DevOps
