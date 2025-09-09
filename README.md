@@ -56,7 +56,7 @@ I am inspired by challenges that require creativity, precision, and logic.*
 <table>
 <tr>
   <td valign="top" style="padding-right: 20px;">
-    <a href="https://roadmap.sh" title="Mi GitHub Stats">
+    <a href="https://github.com/dsrodriguezse" title="Mi GitHub Stats">
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dsrodriguezse&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
     </a>
   </td>
