@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00A8FF&width=500&lines=Developer+%7C+Estudiante+de+Ingeniería+de+Sistemas;%22No+hay+que+ver+para+creer%2C+sino+creer+para+ver%22;Interesado+por+DevOps+y+Ciberseguridad" alt="Typing SVG">
 </p>
 
-🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la Universidad Nacional de Colombia. Actualmente trabajo en **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, una empresa enfocada en soluciones tecnológicas para el sector médico.  
+🎓 Soy estudiante de **Ingeniería de Sistemas y computación** de la Universidad Nacional de Colombia. Actualmente trabajo en **[PahVenture](https://pahventure.com/)**, una empresa de tecnología, que ayuda a las empresas a crecer con IA y soluciones innovadoras.  
 Me inspiran los desafíos que requieren creatividad, precisión y lógica.
 
-*🎓 I am a **Systems Engineering and Computer Science** student at the National University of Colombia. I currently work at **[MatrixMD](https://www.matrixmdsoftware.com/MatrixMD/)**, a company focused on technological solutions for the medical sector.
+*🎓 I am a **Systems Engineering and Computer Science** student at the National University of Colombia. I currently work at **[PahVenture](https://pahventure.com/)**, a technology company that helps businesses grow with AI and innovative solutions.
 I am inspired by challenges that require creativity, precision, and logic.*
 
 ## 🛠️ Technologies and Tools
@@ -31,8 +31,8 @@ I am inspired by challenges that require creativity, precision, and logic.*
 
 **DevOps & Cloud:**  
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-384D54?style=for-the-badge&logo=docker&logoColor=0DB7ED" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
